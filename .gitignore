@@ -1,4 +1,13 @@
 #################
+## VS
+#################
+
+Tests/bin/
+Tests/obj/
+KataTennis/bin/
+KataTennis/obj/
+packages/
+#################
 ## Eclipse
 #################
 
