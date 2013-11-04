@@ -2,10 +2,10 @@
 ## VS
 #################
 
-Tests/bin/
-Tests/obj/
-KataTennis/bin/
-KataTennis/obj/
+Test/bin/
+Test/obj/
+KataPotter/bin/
+KataPotter/obj/
 packages/
 #################
 ## Eclipse
